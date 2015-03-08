@@ -10,3 +10,6 @@ Here is an example for the "name-tag" example
 `ln -s index.html-name-tag index.html`
 
 Note also you must run `npm install` after cloning this repo before running
+
+You can run a "background web server" using this command: 
+`forever --uid "polymer" start app.js`
