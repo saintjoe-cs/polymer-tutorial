@@ -13,3 +13,5 @@ Note also you must run `npm install` after cloning this repo before running
 
 You can run a "background web server" using this command: 
 `forever --uid "polymer" start app.js`
+
+Note this server runs on port 8002!
