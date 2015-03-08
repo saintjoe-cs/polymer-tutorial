@@ -1,0 +1,18 @@
+{
+  "name": "polymer-tut",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Capouch <brianc@saintjoe.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
