@@ -23,7 +23,7 @@ var
 // ------------- END MODULE SCOPE VARIABLES ---------------
 
 // ------------- BEGIN SERVER CONFIGURATION ---------------
-  app.use( express.static( __dirname + '' ) );
+  app.use( express.static( __dirname + '/www' ) );
   app.use( bodyParser.urlencoded({ extended: false }));
   app.use(bodyParser.json());
   app.use(methodOverride());
