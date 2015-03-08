@@ -15,3 +15,5 @@ You can run a "background web server" using this command:
 `forever --uid "polymer" start app.js`
 
 Note this server runs on port 8002!
+
+(Also note: I'm in the process, so far unsucessful, to get these demos working with Cordova.  You will see some things in the repo related to that)
