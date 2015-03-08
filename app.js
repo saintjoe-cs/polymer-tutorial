@@ -31,7 +31,7 @@ var
 // -------------- END SERVER CONFIGURATION ----------------
 
 // ----------------- BEGIN START SERVER -------------------
-server.listen( 8001 );
+server.listen( 8002 );
 console.log(
   'Express server listening on port %d in %s mode',
    server.address().port, app.settings.env
